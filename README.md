@@ -1,5 +1,6 @@
-# I'm Owen 👋
+<h1 align=center> <i>Owen Lam</i> ✌️</h1>
 
+👋 Hi! I’m an aspiring Computer Engineering undergraduate student at UC San Diego.
 <!--
 **froguro/froguro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![froguro's GitHub stats](https://github-readme-stats.vercel.app/api?username=froguro&show_icons=true&theme=gruvbox)](https://github.com/froguro/github-readme-stats)
+<a href="https://github.com/froguro/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=froguro&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/froguro/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=froguro&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
+</a>
